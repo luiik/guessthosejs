@@ -4,5 +4,5 @@
 ## 2K + Images 
 
 ## Image size:
-### width = 360
-### height = 257
+width = 360
+height = 257
